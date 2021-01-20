@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">myMultimedia</string>
+    <string name="StopBtn">Stop</string>
+    <string name="PlayBtn">Play</string>
+</resources>
